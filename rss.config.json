@@ -1,21 +1,21 @@
 {
-  "title": "Chau Tran",
-  "description": "Personal blog of Chau Tran aka nartc",
-  "id": "https://nartc.me",
-  "link": "https://nartc.me",
+  "title": "Eric Ambiel",
+  "description": "Personal blog of Eric Ambiel",
+  "id": "https://blog.devpackage.xyz",
+  "link": "https://blog.devpackage.xyz",
   "language": "en",
-  "image": "https://nartc.me/assets/icons/favicon.png",
-  "favicon": "https://nartc.me/assets/icons/favicon.png",
-  "copyright": "2020 nartc.me",
-  "generator": "Personal blog of Chau Tran",
+  "image": "https://blog.devpackage.xyz/assets/icons/favicon.png",
+  "favicon": "https://blog.devpackage.xyz/assets/icons/favicon.png",
+  "copyright": "2021 blog.devpackage.xyz",
+  "generator": "Page description",
   "filename": "feed",
   "feedLinks": {
-    "atom": "https://nartc.me/feed.atom",
-    "json": "https://nartc.me/feed.json",
-    "xml": "https://nartc.me/feed.xml"
+    "atom": "https://blog.devpackage.xyz/feed.atom",
+    "json": "https://blog.devpackage.xyz/feed.json",
+    "xml": "https://blog.devpackage.xyz/feed.xml"
   },
   "outDir": "./dist/static",
-  "categories": ["programming", "typescript", "angular", "nestjs", "scully"],
+  "categories": ["programming", "typescript", "angular", "DevOps"],
   "blogPostRouteSlug": "/blog",
   "newestPostsFirst": true
 }

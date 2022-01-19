@@ -5,8 +5,9 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   template: `
     <p class="font-bold mb-4 text-xl">Chau Tran</p>
     <p class="font-hairline mb-4">
-      I am a developer who is highly interested in TypeScript. My tech stack has been full-stack TS
-      such as Angular, React with TypeScript and NestJS.
+      I'm a developer passionate about TypeScript and DevOps, currently focused on backend and 
+      infrastructure automations. Most used tools Node, Angular, TypeORM, Typegoose, Express, Jest, 
+      Celebrate.
     </p>
   `,
   changeDetection: ChangeDetectionStrategy.OnPush,

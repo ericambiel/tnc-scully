@@ -3,6 +3,7 @@ import {
   NotionDom,
   NotionDomPluginOptions,
   NotionDomRouter,
+  NotionDomRouterPluginOptions,
 } from '@notion-stuff/scully-plugin-notion';
 import '@notiz/scully-plugin-lazy-images';
 import { ScullyConfig, setPluginConfig } from '@scullyio/scully';
@@ -29,7 +30,7 @@ export const config: ScullyConfig = {
     '/blog/:slug': {
       type: NotionDomRouter,
       postRenderers: [NotionDom],
-      databaseId: '907c49753973410faba8bada861737d4',
-    },
+      databaseId: '65dacf448cd24dc1b1b454f9ffe40a1b',
+    } as NotionDomRouterPluginOptions,
   },
 };

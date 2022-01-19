@@ -5,7 +5,7 @@ staticPort: 1668
 reloadPort: 2667
 hostName: localhost
 projectName: tnc-scully
-homeFolder: /Users/ctran/code/oss/personal-blog
+homeFolder: /media/ericambiel/BKP/Projetos/pessoais/tnc-scully
 distFolder: dist/tnc-scully
-outDir: /Users/ctran/code/oss/personal-blog/dist/static
+outDir: /media/ericambiel/BKP/Projetos/pessoais/tnc-scully/dist/static
 handle404: ''

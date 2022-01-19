@@ -16,11 +16,11 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 })
 export class SocialsComponent {
   socials = [
-    { id: 'Github', link: 'https://github.com/nartc' },
-    { id: 'LinkedIn', link: 'https://www.linkedin.com/in/chauntran/' },
-    { id: 'Twitter', link: 'https://twitter.com/Nartc1410' },
-    { id: 'Facebook', link: 'https://www.facebook.com/ctran2428' },
-    { id: 'Stackoverflow', link: 'https://stackoverflow.com/users/8468804/chau-tran' },
-    { id: 'Youtube', link: 'https://youtube.com/c/ChauTran' },
+    { id: 'Github', link: 'https://github.com/ericambiel' },
+    { id: 'LinkedIn', link: 'https://www.linkedin.com/in/ericambiel/' },
+    // { id: 'Twitter', link: '' },
+    { id: 'Facebook', link: 'https://www.facebook.com/ericambiel' },
+    // { id: 'Stackoverflow', link: '' },
+    // { id: 'Youtube', link: '' },
   ];
 }
