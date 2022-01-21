@@ -85,7 +85,7 @@ export class MetaService {
     this.meta.removeTag("name='twitter:description'");
     this.meta.removeTag("name='keywords'");
 
-    this.meta.updateTag({ name: 'description', content: 'Personal blog by Chau Tran' });
+    this.meta.updateTag({ name: 'description', content: 'Personal blog by Eric Ambiel' });
     this.meta.updateTag({
       name: 'twitter:image',
       content: this._defaultImage,
@@ -105,12 +105,12 @@ export class MetaService {
       property: 'og:image',
       content: this._defaultImage,
     });
-    this.title.setTitle('Chau Tran');
+    this.title.setTitle('Eric Ambiel - Blog');
     this.updateCanonical();
   }
 
   private static getTitle(title: string) {
-    return `${title} | Chau Tran`;
+    return `${title} | Eric Ambiel`;
   }
 
   private updateCanonical(url: string = environment.baseUrl) {

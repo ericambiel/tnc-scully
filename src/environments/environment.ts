@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   baseUrl: 'http://localhost:1668',
-  avatar: 'https://nartc.me/assets/static/head.png',
+  avatar: 'http://localhost:1668/assets/static/head.png',
 };
 
 /*

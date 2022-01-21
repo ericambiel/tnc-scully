@@ -15,10 +15,10 @@ export class GiscusDirective implements AfterViewInit {
         const scriptEl = this.document.createElement('script');
         scriptEl.async = true;
         scriptEl.src = 'https://giscus.app/client.js';
-        scriptEl.setAttribute('data-repo', 'nartc/tnc-scully');
-        scriptEl.setAttribute('data-repo-id', 'MDEwOlJlcG9zaXRvcnkyNjgzNzE2Mjc=');
-        scriptEl.setAttribute('data-category', 'Announcements');
-        scriptEl.setAttribute('data-category-id', 'DIC_kwDOD_8Gq84CAbUC');
+        scriptEl.setAttribute('data-repo', 'ericambiel/tnc-scully');
+        scriptEl.setAttribute('data-repo-id', 'R_kgDOGrzcoQ');
+        scriptEl.setAttribute('data-category', 'General');
+        scriptEl.setAttribute('data-category-id', 'DIC_kwDOGrzcoc4CAyJg');
         scriptEl.setAttribute('data-mapping', 'pathname');
         scriptEl.setAttribute('data-reactions-enabled', '1');
         scriptEl.setAttribute('data-emit-metadata', '0');
