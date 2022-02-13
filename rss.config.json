@@ -1,18 +1,18 @@
 {
   "title": "Eric Ambiel",
   "description": "Personal blog of Eric Ambiel",
-  "id": "https://blog.devpackage.xyz",
-  "link": "https://blog.devpackage.xyz",
+  "id": "https://www.devpackage.xyz",
+  "link": "https://www.devpackage.xyz",
   "language": "en",
-  "image": "https://blog.devpackage.xyz/assets/icons/favicon.png",
-  "favicon": "https://blog.devpackage.xyz/assets/icons/favicon.png",
-  "copyright": "2021 blog.devpackage.xyz",
+  "image": "https://www.devpackage.xyz/assets/icons/favicon.png",
+  "favicon": "https://www.devpackage.xyz/assets/icons/favicon.png",
+  "copyright": "2021 www.devpackage.xyz",
   "generator": "Page description",
   "filename": "feed",
   "feedLinks": {
-    "atom": "https://blog.devpackage.xyz/feed.atom",
-    "json": "https://blog.devpackage.xyz/feed.json",
-    "xml": "https://blog.devpackage.xyz/feed.xml"
+    "atom": "https://www.devpackage.xyz/feed.atom",
+    "json": "https://www.devpackage.xyz/feed.json",
+    "xml": "https://www.devpackage.xyz/feed.xml"
   },
   "outDir": "./dist/static",
   "categories": ["programming", "typescript", "angular", "DevOps"],
